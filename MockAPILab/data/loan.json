@@ -1,0 +1,24 @@
+[
+  {
+    "loanId": 1,
+    "borrowers": [
+      {
+        "pairId": 1,
+        "firstName": "john",
+        "lastName": "doe",
+        "phone": "XXXXXXXXXXX"
+      }
+    ]
+  },
+  {
+    "loanId": 2,
+    "borrowers": [
+      {
+        "pairId": 2,
+        "firstName": "john1",
+        "lastName": "doe1",
+        "phone": "XXXXXXXXXXY"
+      }
+    ]
+  }
+]
